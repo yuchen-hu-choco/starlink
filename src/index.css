@@ -1,3 +1,11 @@
+@import "./styles/Header.css";
+@import "./App.css";
+@import "./styles/Footer.css";
+@import "./styles/Main.css";
+@import "./styles/SatSetting.css";
+@import '~antd/dist/antd.css';
+@import "./styles/SatelliteList.css";
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',

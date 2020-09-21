@@ -1,0 +1,19 @@
+.App-logo {
+    height: 60px;
+    padding-left: 25px;
+}
+
+.App-header {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+    color: #1f6099;
+    box-shadow: rgb(220, 220, 220) 0px 2px 10px;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0px;
+}

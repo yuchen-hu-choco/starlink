@@ -1,0 +1,65 @@
+
+.sat-setting {
+    text-align: left;
+    padding: 10px;
+    border: 2px solid #ccc;
+}
+
+.setting-list {
+    margin-bottom: 8px;
+}
+
+.setting-label {
+    color: #777;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.two-item-col {
+    display: flex;
+}
+
+.list-item label, .altitude-setting span{
+    font-size: 1em;
+}
+
+.right-item {
+    margin-left: 16px;
+}
+
+.duration-setting {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.duration-slider {
+    flex: 1;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.ant-slider-handle{
+    border: solid 2px #1f6099;
+}
+.ant-slider-track{
+    background-color: #1f6099;
+}
+.ant-slider:hover .ant-slider-track{
+    background-color: #1f6099;
+}
+/*nearby button*/
+.show-nearby {
+    display: flex;
+    justify-content: center;
+    margin-top:2px;
+}
+
+.show-nearby-btn {
+    text-transform: none;
+    padding: 10px 22px;
+    background-color: #2bb673;
+    font-size: 1em;
+    color: #fff;
+}
