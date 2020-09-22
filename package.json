@@ -8,9 +8,16 @@
     "@testing-library/user-event": "^7.1.2",
     "antd": "^3.26.18",
     "axios": "^0.20.0",
+    "d3-geo": "^2.0.1",
+    "d3-geo-projection": "^3.0.0",
+    "d3-scale": "^3.2.2",
+    "d3-scale-chromatic": "^2.0.0",
+    "d3-selection": "^2.0.0",
+    "d3-time-format": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "topojson-client": "^3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
